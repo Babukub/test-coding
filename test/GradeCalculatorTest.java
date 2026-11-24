@@ -1,4 +1,8 @@
+package test;
 import org.junit.Test;
+
+import src.GradeCalculator;
+
 import static org.junit.Assert.*;
 
 public class GradeCalculatorTest {

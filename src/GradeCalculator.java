@@ -1,3 +1,4 @@
+package src;
 public class GradeCalculator {
     public String gradeOf(int score) {
         if (score < 0 || score > 100) {
